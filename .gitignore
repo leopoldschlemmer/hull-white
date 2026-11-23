@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+data/swiss_bonds_long.csv
+data/swiss_spot_yields_pct.csv
+data/swiss_zero_coupon_prices_per_100.csv

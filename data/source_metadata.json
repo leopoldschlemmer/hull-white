@@ -1,0 +1,319 @@
+{
+  "provider": "Swiss National Bank",
+  "cube": "rendoblid",
+  "download_date": "2026-11-23",
+  "source_publication_date": "2025-09-01 14:29",
+  "csv_url": "https://data.snb.ch/api/cube/rendoblid/data/csv/en",
+  "json_url": "https://data.snb.ch/api/cube/rendoblid/data/json/en",
+  "raw_sha256": "35b0a1dd49eff0a66b9eb7983eaaf2d566e8396af0a041be7b08a1e97180f8fe",
+  "series": [
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 1 year"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{1J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 2 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{2J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 3 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{3J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 4 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{4J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 5 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{5J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 6 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{6J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 7 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{7J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 8 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{8J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 9 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{9J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 10 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{10J0}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 15 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{15J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 20 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{20J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - CHF Swiss Confederation bond issues - 30 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{30J}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Spot interest rates with different maturities for Confederation bond issues and euro-denominated bond issues - EUR German government bond issues - 10 years"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{10J1}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of Swiss borrowers - Confederation"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{E}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of Swiss borrowers - Cantons"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{K}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of Swiss borrowers - Mortgage bond institutions"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{P}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of Swiss borrowers - Commercial banks (including cantonal banks)"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{GK}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of Swiss borrowers - Manufacturing (including power plants) and trade"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{IKH}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of foreign borrowers - AAA"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{AAA}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of foreign borrowers - AA"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{AA}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    },
+    {
+      "header": [
+        {
+          "dim": "Overview",
+          "dimItem": "Yields on CHF bond issues issued by various borrower categories with a maturity of 8 years - CHF bond issues of foreign borrowers - A"
+        }
+      ],
+      "metadata": {
+        "key": "EPB@SNB.rendoblid{A}",
+        "frequency": "P1D_L",
+        "scale": "",
+        "unit": "In percent"
+      }
+    }
+  ]
+}
